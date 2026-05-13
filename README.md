@@ -1,16 +1,16 @@
 
-# ara
+# eto
 
-My name is ara ex Web-Dev
+Full-Stack-Web-Dev
 
 
 ## Current Goals
 
-⚡️ Quitted Web-Development To achieve something else :)
+⚡️ Just small project for funnsies :)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_contacts-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://e-z.bio/ara/)
+[![portfolio](https://img.shields.io/badge/my_contacts-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://e-z.bio/ara/](https://guns.lol/etofps))
 
 [![youtube](https://img.shields.io/badge/youtube-d95763?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtSyDYdUynwoK9O9G8W_-Qw)
 
