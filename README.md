@@ -31,5 +31,3 @@ Full-stack web developer building clean web tools, stream overlays, and small pr
 ## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafps&show_icons=true&theme=dark&hide_border=true&title_color=f97316&icon_color=34d399)
-
-Made by etofps.
