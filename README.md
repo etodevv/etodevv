@@ -49,5 +49,3 @@ building clean overlays, stream tools, and web experiments one commit at a time
 currently building: DBD OBS Overlay
 main focus: clean web tools, streamer utilities, and polished UI
 ```
-
-Made by etofps.
