@@ -14,6 +14,18 @@ Full-stack web developer building clean web tools, stream overlays, and small pr
 | Web experiments | Ongoing | Small ideas, UI tests, and stream tools |
 | Personal site | In progress | Keeping links and projects easy to find |
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafps/arafps/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafps/arafps/output/github-snake.svg">
+  <img alt="etofps GitHub contribution animation" src="https://raw.githubusercontent.com/arafps/arafps/output/github-snake.svg">
+</picture>
+
+```txt
+building clean overlays, stream tools, and web experiments one commit at a time
+```
+
 ## What I Like Building
 
 - Stream tools and overlays
