@@ -18,9 +18,9 @@ Full-stack web developer building clean web tools, stream overlays, and small pr
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etodevv/arafps/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etodevv/arafps/output/github-snake.svg">
-  <img alt="etofps GitHub contribution animation" src="https://raw.githubusercontent.com/etodevv/arafps/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etodevv/etodevv/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etodevv/etodevv/output/github-snake.svg">
+  <img alt="etofps GitHub contribution animation" src="https://raw.githubusercontent.com/etodevv/etodevv/output/github-snake.svg">
 </picture>
 
 ```txt
