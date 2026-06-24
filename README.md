@@ -1,10 +1,10 @@
-# eto / etofps
+# eto / etodevv
 
 Full-stack web developer building clean web tools, stream overlays, and small projects that are actually fun to use.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=etodevv&style=for-the-badge&color=f97316)
 ![Focus](https://img.shields.io/badge/focus-web%20apps%20%26%20overlays-111827?style=for-the-badge)
-![Made By](https://img.shields.io/badge/made%20by-etofps-34d399?style=for-the-badge)
+![Made By](https://img.shields.io/badge/made%20by-etodevv-34d399?style=for-the-badge)
 
 ## Current Work
 
